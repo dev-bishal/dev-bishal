@@ -63,7 +63,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=dev-bishal&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=163 src="https://streak-stats.demolab.com/?user=dev-bishal&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://dev-bishal-stats.vercel.app/api?username=dev-bishal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://dev-bishal-stats.vercel.app/api/top-langs/?username=dev-bishal&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
