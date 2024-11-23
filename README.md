@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I'm currently working on **a marketplace**
+🔭 I'm currently working on **a Astro Site**
 
-🌱 I'm currently learning **Docker, Supabase, AWS**
+🌱 I'm currently learning **React | Angular, NextJS, .Net**
 
 ⚡ Fun fact **I didn't watch Game of Thrones because I think its too much hyped 🥱**
 
