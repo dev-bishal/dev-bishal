@@ -14,8 +14,6 @@
 
 🌱 I'm currently learning **React | Angular, NextJS, .Net**
 
-⚡ Fun fact **I didn't watch Game of Thrones because I think its too much hyped 🥱**
-
  </div>
  
 <div align="center"> 
