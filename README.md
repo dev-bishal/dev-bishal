@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Bishal Biswas
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Bishal%20Biswas&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20|%20Freelancer%20|%20Problem%20Solver&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Bishal%20Biswas&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20|%20Freelancer%20|%20Problem%20Solver&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- <p align="center">
