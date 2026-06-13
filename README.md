@@ -1,68 +1,209 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dev-bishal.dev-bishal" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Bishal Biswas
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bishal+Biswas!;" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563EB,100:7C3AED&text=Bishal%20Biswas&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20|%20Freelancer%20|%20Problem%20Solver&descAlignY=60" />
+</p>
 
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-bishal&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<br/>
+---
 
-<div align="center">
- 
-🔭 I'm currently working on **a Astro Site**
+## 👨‍💻 About Me
 
-🌱 I'm currently learning **React | Angular, NextJS, .Net**
+I'm a Full Stack Developer specializing in modern web applications, backend systems, automation, and cloud deployments.
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:bishal.biswas.4796@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/iambishal-biswas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://dev-bishal.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+🚀 Building scalable web solutions
 
- <hr/>
+💼 Available for freelance projects
 
-<h2 align="center">⚒️ Frameworks I work with ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=astro,bootstrap,html,css,js,github,tailwind,vscode" />
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,angular,react,nextjs,alpinejs,firebase,ts" />
-</div>
+🌱 Currently exploring:
 
-<br/>
-<h2 align="center">⚒️ Languages I am interested in ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,selenium,docker,flutter,php,py" />
-</div>
-<br/>
+* ASP.NET Core
+* Cloud & DevOps
+* System Design
+* AI-Powered Applications
 
-<hr/>
+---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-bishal/dev-bishal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-bishal/dev-bishal/refs/heads/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/dev-bishal/dev-bishal/refs/heads/output/github-contribution-grid-snake.svg" />
-    </picture>
-  <br/><br/><br/>
-</div>
+## 💼 Freelance Services
 
-<hr/>
+✔ Full Stack Web Development
 
-<br/>
+✔ ASP.NET Core Applications
 
-<div align="center">
-<a href='https://dev-bishal.vercel.app/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://camo.githubusercontent.com/feb1783ffd5114745c4f7a5d5606f41eeef21b21f20c663f760f10a5302fd915/68747470733a2f2f6465762d62697368616c2e76657263656c2e6170702f6173736574732f696d616765732f6c6f676f2e706e67' border='0' alt='My Blog' /></a>
-</div>
+✔ REST API Development
 
-<br/>
+✔ Database Design & Optimization
 
+✔ VPS Deployment & Automation
+
+✔ Bug Fixes & Performance Improvements
+
+---
+
+## ⚒️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=astro,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,nginx" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+</p>
+
+---
+
+## 🚀 Current Project
+
+### SMMPanels.net
+
+A complete SMM ecosystem featuring:
+
+* Customer Dashboard
+* Admin Panel
+* API Integration
+* Payment Processing
+* Order Automation
+* VPS Deployment Pipeline
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-bishal&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bishal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bishal&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-bishal&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Create `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dev-bishal
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Add this image below:
+
+```md
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/dev-bishal/dev-bishal/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/dev-bishal">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://cdn.simpleicons.org/x" width="48" />
+</a>
+
+</p>
+
+---
+
+## 💰 Hire Me
+
+<p align="center">
+
+### Available for Freelance Work
+
+Custom Web Applications • APIs • Dashboards • Automation • Cloud Deployments
+
+<a href="YOUR_UPWORK_PROFILE">
+  <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into scalable software."</i>
+</p>
