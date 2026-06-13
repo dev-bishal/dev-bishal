@@ -118,53 +118,20 @@ A complete SMM ecosystem featuring:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-bishal&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
-> Create `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: dev-bishal
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Add this image below:
-
-```md
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/dev-bishal/dev-bishal/blob/output/github-contribution-grid-snake.svg)
-```
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/dev-bishal/dev-bishal/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/dev-bishal/dev-bishal/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="github contribution grid snake animation"
+       src="https://github.com/dev-bishal/dev-bishal/blob/output/github-contribution-grid-snake.gif">
+</picture>
 
 ---
 
@@ -196,7 +163,7 @@ Add this image below:
 
 Custom Web Applications • APIs • Dashboards • Automation • Cloud Deployments
 
-<a href="YOUR_UPWORK_PROFILE">
+<a href="https://www.upwork.com/freelancers/~0115a5e68520f6bde9">
   <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 
