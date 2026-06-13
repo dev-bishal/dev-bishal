@@ -26,7 +26,7 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 * AI-Powered Applications
 
 ---
-
+<!--
 ## 💼 Freelance Services
 
 ✔ Full Stack Web Development
@@ -40,8 +40,8 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 ✔ VPS Deployment & Automation
 
 ✔ Bug Fixes & Performance Improvements
-
 ---
+-->
 
 ## ⚒️ Tech Stack
 
