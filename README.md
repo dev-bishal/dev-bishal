@@ -85,7 +85,7 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 
 ## 🚀 Current Project
 
-### SMMPanels.net
+### SMMList.org and SMMPanelServices.com
 
 A complete SMM ecosystem featuring:
 
