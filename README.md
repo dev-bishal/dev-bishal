@@ -26,7 +26,6 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 * AI-Powered Applications
 
 ---
-<!--
 ## 💼 Freelance Services
 
 ✔ Full Stack Web Development
@@ -41,7 +40,6 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 
 ✔ Bug Fixes & Performance Improvements
 ---
--->
 
 ## ⚒️ Tech Stack
 
@@ -80,21 +78,6 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
-
----
-
-## 🚀 Current Project
-
-### SMMList.org and SMMPanelServices.com
-
-A complete SMM ecosystem featuring:
-
-* Customer Dashboard
-* Admin Panel
-* API Integration
-* Payment Processing
-* Order Automation
-* VPS Deployment Pipeline
 
 ---
 
