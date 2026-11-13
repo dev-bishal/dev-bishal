@@ -39,6 +39,7 @@ I'm a Full Stack Developer specializing in modern web applications, backend syst
 ✔ VPS Deployment & Automation
 
 ✔ Bug Fixes & Performance Improvements
+
 ---
 
 ## ⚒️ Tech Stack
